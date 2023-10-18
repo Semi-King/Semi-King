@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm studying Full-Stack Web Development<br><br>Passionate about: <br>Design 🏗<br>Gaming 👩‍🚀<br>Web Development 👨‍💻<br><br>I am highly motivated and seeking opportunities to grow<br>and connect with people!🎇
+🔭 I'm studying Full-Stack Web Development<br><br>Passionate about: <br>Design 🏗<br>Coding 👩‍🚀<br>Web Development 👨‍💻<br><br>I am highly motivated and seeking opportunities to grow<br>and connect with people!🎇
 
 
 ## 🌐 Socials:
